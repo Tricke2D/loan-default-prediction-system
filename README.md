@@ -41,4 +41,4 @@ By leveraging modern machine learning and AI engineering practices, this project
 
 ###### **Datasets Used:**
 
-https://www.kaggle.com/datasets/laotse/credit-risk-dataset?
+https://www.kaggle.com/datasets/laotse/credit-risk-dataset
